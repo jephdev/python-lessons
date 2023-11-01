@@ -1,2 +1,3 @@
-# python-lessons
-My Python lessons
+Oluwatosin
+Paisley
+Source Control on Coursera
